@@ -1,7 +1,7 @@
 {
     "name": "Dash",
-    "description": "ASDF",
-    "image": "ASDF",
+    "description": "Dash ist ein wildes, kleines Unicorn mit einem mutigen Draufgänger-Charakter. Sein glänzendes Fell ist von wilden, weißen Strähnen durchzogen und seine Augen funkeln voller Abenteuerlust. Wenn Dash durch die Wiesen galoppiert, wirbelt er Staub und Gras auf und sein lautes Wiehern ist weit zu hören. Dash liebt es, durch unwegsames Gelände zu toben und seine Grenzen im Wunderland auszutesten.",
+    "image": "https://github.com/twireDao/wunderland-2/raw/main/images/3.png",
     "external_url": "https://wunderland.katjes.de/",
     "attributes": [
         {

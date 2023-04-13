@@ -1,7 +1,7 @@
 {
     "name": "Willow",
-    "description": "ASDF",
-    "image": "ASDF",
+    "description": "Willow ist ein süßes, kleines Unicorn mit einer sehr intelligenten und nerdigen Persönlichkeit. Ihr seidiges Fell ist makellos und ihre großen, runden Augen funkeln voller Wissensdurst. Willow liebt es, Bücher zu lesen und wissenschaftliche Experimente durchzuführen. Wenn sie nicht gerade ihre Nase in einem Buch hat, kann man sie oft dabei beobachten, wie sie komplizierte Rätsel löst und neue Theorien entwickelt.",
+    "image": "https://github.com/twireDao/wunderland-2/raw/main/images/1.png",
     "external_url": "https://wunderland.katjes.de/",
     "attributes": [
         {
