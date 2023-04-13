@@ -1,0 +1,24 @@
+{
+    "name": "Sparkles",
+    "description": "ASDF",
+    "image": "ASDF",
+    "external_url": "https://wunderland.katjes.de/",
+    "attributes": [
+        {
+            "trait_type": "Name",
+            "value": "Sparkles"
+        },
+        {
+            "trait_type": "Typ",
+            "value": "Baby-Unicorn"
+        }, 
+        {
+            "trait_type": "Rarität",
+            "value": "Selten"
+        }, 
+        {
+            "trait_type": "Zuhause",
+            "value": "Wunderland"
+        }
+    ]
+}

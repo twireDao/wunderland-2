@@ -1,0 +1,24 @@
+{
+    "name": "Dash",
+    "description": "ASDF",
+    "image": "ASDF",
+    "external_url": "https://wunderland.katjes.de/",
+    "attributes": [
+        {
+            "trait_type": "Name",
+            "value": "Dash"
+        },
+        {
+            "trait_type": "Typ",
+            "value": "Baby-Unicorn"
+        }, 
+        {
+            "trait_type": "Rarität",
+            "value": "Häufig"
+        }, 
+        {
+            "trait_type": "Zuhause",
+            "value": "Wunderland"
+        }
+    ]
+}

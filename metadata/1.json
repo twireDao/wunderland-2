@@ -1,0 +1,24 @@
+{
+    "name": "Willow",
+    "description": "ASDF",
+    "image": "ASDF",
+    "external_url": "https://wunderland.katjes.de/",
+    "attributes": [
+        {
+            "trait_type": "Name",
+            "value": "Willow"
+        },
+        {
+            "trait_type": "Typ",
+            "value": "Baby-Unicorn"
+        }, 
+        {
+            "trait_type": "Rarität",
+            "value": "Super Selten"
+        }, 
+        {
+            "trait_type": "Zuhause",
+            "value": "Wunderland"
+        }
+    ]
+}
