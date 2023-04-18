@@ -1,0 +1,20 @@
+{
+    "name": "Aurora",
+    "description": "tbd",
+    "image": "https://github.com/twireDao/wunderland-2/raw/main/images/5.png",
+    "external_url": "https://wunderland.katjes.de/",
+    "attributes": [
+        {
+            "trait_type": "Name",
+            "value": "Aurora"
+        },
+        {
+            "trait_type": "Typ",
+            "value": "Fee"
+        },
+        {
+            "trait_type": "Zuhause",
+            "value": "Wunderland"
+        }
+    ]
+}
